@@ -11,6 +11,6 @@ Repository for laboratory work/practice on web development
 \
 \
 Немного смешных картинок:
-![Alt text](https://sun9-11.userapi.com/impg/qH8HwcKS6yHFAIkFsIvk864ZjHwfg02JCsemLg/RvSODwUd_Rk.jpg?size=1280x1280&quality=95&sign=d337b62b5f84cd3f843c78ab53f9f574&type=album) \
-![Alt text](https://sun9-28.userapi.com/impg/gwMOWIp9fZuNd17ceK0vQf7RBYekP8GiDsjnAg/IMLYv_YJTMA.jpg?size=882x803&quality=96&sign=6495a50b7407364c2a32aa0fcebe65e0&type=album) \ 
+![Alt text](https://sun9-11.userapi.com/impg/qH8HwcKS6yHFAIkFsIvk864ZjHwfg02JCsemLg/RvSODwUd_Rk.jpg?size=1280x1280&quality=95&sign=d337b62b5f84cd3f843c78ab53f9f574&type=album)
+![Alt text](https://sun9-28.userapi.com/impg/gwMOWIp9fZuNd17ceK0vQf7RBYekP8GiDsjnAg/IMLYv_YJTMA.jpg?size=882x803&quality=96&sign=6495a50b7407364c2a32aa0fcebe65e0&type=album) 
 ![Alt text](https://sun9-78.userapi.com/impg/xJ3ecdrK4-lMCaUdqE1_b4F6PkstMtus6-JzPQ/PECgnj6dgD4.jpg?size=1024x1280&quality=95&sign=3ea9616f10c1ac4a40624544df0aaf81&type=album)
