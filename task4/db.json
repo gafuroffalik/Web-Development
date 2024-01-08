@@ -1,0 +1,45 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Штаны",
+      "provider": "Pirosmani",
+      "src": "https://pirosmani.info/media/catalog/product/cache/985836dd58930a7cd92441e19f9ba0fb/2/b/2b6b76a4-c4ed-4a15-a405-fea6fe80068f.jpeg",
+      "desc": "Сидят идеально"
+    },
+    {
+      "id": 2,
+      "name": "Одеколон Саша",
+      "provider": "NEW ZARIA",
+      "src": "https://www.newzaria.ru/pics/novaia-zaria_sasha.jpg",
+      "desc": "Пахни как Саша"
+    },
+    {
+      "id": 3,
+      "name": "Боевая единица",
+      "provider": "Forbes",
+      "src": "https://cdn.forbes.ru/sites/default/files/users/user12852/HogRider.png",
+      "desc": "Уничтожит всех"
+    },
+    {
+      "id": 4,
+      "name": "Джек Потрошитель",
+      "provider": "Комсомольская правда",
+      "src": "https://s09.stc.yc.kpcdn.net/share/i/12/10844949/de-1200.jpg",
+      "desc": "Будь с ним осторожен"
+    },
+    {
+      "id": 5,
+      "name": "Щенок",
+      "provider": "Purina",
+      "src": "https://www.purina.ru/sites/default/files/2021-07/Щенок%20не%20ест%20mob.jpg",
+      "desc": "Ну разве не милаш?"
+    }
+  ],
+  "owner_info": {
+    "name": "Гафуров Алик",
+    "group": "6409",
+    "github": "https://github.com/gafuroffalik",
+    "mail": "gafuroffalik@gmail.com"
+  }
+}
